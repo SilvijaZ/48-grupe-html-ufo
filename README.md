@@ -50,6 +50,6 @@ function suma(a,b){
 
 Paprastas paragrafas su [nuoroda](htttps://example.com).
 
-![Ufo nuotrauka](/Error%20page.jpg)
+![Ufo nuotrauka](./Error%20page.jpg)
 ## Penkto lygio antraštė
 ## Šešto lygio antraštė

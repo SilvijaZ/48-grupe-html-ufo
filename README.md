@@ -1,14 +1,16 @@
-# :grinning: Ufo
+# :flying_saucer: Ufo
 
 > ***Website  design  project***
 
 <br>
 
+```
 ![Ufo image](./img/ufo.jpg)
+```
 
 <br>
 
-## About Project
+## :bulb: About Project
 
 This project is for educational porpuses only. The main goal of this project is to create a simple website about UFOs error page!    
 
@@ -16,7 +18,7 @@ This project is for educational porpuses only. The main goal of this project is 
 
 >Design: [Ufo design] _https://dribbble.com/shots/2815937-404-page_
 
-## Project Features and Goals
+## :dart: Project Features and Goals
 
 - Github pages
 - Html
@@ -25,7 +27,7 @@ This project is for educational porpuses only. The main goal of this project is 
 - Image with relative paths
 
 
-## Getting Started
+## :wink: Getting Started
 
 > What tools to use? It's very simple! **You need to follow these steps:**
 
@@ -41,7 +43,7 @@ Git - _download and install_
 https://git-scm.com
 ```
 
-## Would you like to run this project locally?
+## :running: Would you like to run this project locally?
 
 Open terminal and follow my instructure:
 
@@ -65,7 +67,7 @@ Choose one of them. They  are same commands.
 npm run dev
 ```
 
-## Authors
+## :woman_astronaut: Authors
 
 Silvija: [Github link](https://github.com/SilvijaZ)
 

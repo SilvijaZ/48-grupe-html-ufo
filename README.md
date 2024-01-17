@@ -4,7 +4,7 @@
 
 <br>
 
-![Ufo nuotrauka](./ufo.jpg)
+![Ufo image](./img/ufo.jpg)
 
 <br>
 

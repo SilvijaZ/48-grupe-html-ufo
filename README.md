@@ -4,9 +4,8 @@
 
 <br>
 
-```
+
 ![Ufo image](./img/ufo.jpg)
-```
 
 <br>
 

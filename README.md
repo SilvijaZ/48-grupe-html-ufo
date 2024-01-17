@@ -62,11 +62,9 @@ npm i or npm install > [!NOTE]
 npm run dev
 ```
 
-## `:grinning:`
- Authors
+## Authors
 
 Silvija: [Github link](https://github.com/SilvijaZ)
-
 ## License
 
 Distributed under the MIT License.

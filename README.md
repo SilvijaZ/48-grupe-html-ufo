@@ -1,4 +1,4 @@
-#  :_  Ufo
+# Ufo
 
 > ***Website  design  project***
 
@@ -12,7 +12,7 @@
 
 This project is for educational porpuses only. The main goal of this project is to create a simple website about UFOs error page!    
 
->Site published at: parasyti savo page issaugota jau
+>Site published at: https://silvijaz.github.io/48-grupe-html-ufo/
 
 >Design: [Ufo design] _https://dribbble.com/shots/2815937-404-page_
 
@@ -54,10 +54,11 @@ https://github.com/SilvijaZ/48-grupe-html-ufo.git
 2) Install NPM packages:
 
 ```
-npm i or npm install > 
-[!NOTE]
-Choose one of them. They  are same commands. 
+npm i or npm install 
 ```
+> [!NOTE]
+Choose one of them. They  are same commands. 
+
 3) Run the server:
 
 ```

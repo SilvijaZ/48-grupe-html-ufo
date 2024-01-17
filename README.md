@@ -70,10 +70,10 @@ npm run dev
 
 Silvija: [Github link](https://github.com/SilvijaZ)
 
-## License
+## :warning: License
 
 Distributed under the MIT License.
 
-## Others resources
+## :link: Others resources
 
 No other resources.

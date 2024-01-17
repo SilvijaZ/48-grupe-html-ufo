@@ -4,7 +4,7 @@
 
 <br>
 
-![Ufo nuotrauka](./Error%20page.jpg)
+![Ufo nuotrauka](./ufo.jpg)
 
 <br>
 

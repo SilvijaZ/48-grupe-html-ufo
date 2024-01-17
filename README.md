@@ -44,7 +44,8 @@ https://git-scm.com
 
 ## :running: Would you like to run this project locally?
 
-Open terminal and follow my instructure:
+Open terminal and follow my instruction:
+
 
 1) Clone repository:
 

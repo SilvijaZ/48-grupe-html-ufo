@@ -1,4 +1,4 @@
-# Ufo
+#  :_  Ufo
 
 > ***Website  design  project***
 
@@ -10,7 +10,7 @@
 
 ## About Project
 
-This project is for educational porpuses only. The main goal of this project is to create a simple website about UFOs error page and about aliens...!    
+This project is for educational porpuses only. The main goal of this project is to create a simple website about UFOs error page!    
 
 >Site published at: parasyti savo page issaugota jau
 
@@ -54,7 +54,9 @@ https://github.com/SilvijaZ/48-grupe-html-ufo.git
 2) Install NPM packages:
 
 ```
-npm i or npm install > [!NOTE]
+npm i or npm install > 
+[!NOTE]
+Choose one of them. They  are same commands. 
 ```
 3) Run the server:
 
@@ -65,6 +67,7 @@ npm run dev
 ## Authors
 
 Silvija: [Github link](https://github.com/SilvijaZ)
+
 ## License
 
 Distributed under the MIT License.
@@ -72,7 +75,3 @@ Distributed under the MIT License.
 ## Others resources
 
 No other resources.
-
-
-
-> Choose one of them. They  are same commands. 

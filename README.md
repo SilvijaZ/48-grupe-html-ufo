@@ -24,6 +24,7 @@ This project is for educational porpuses only. The main goal of this project is 
 - Css style
 - Basic design layout
 - Image with relative paths
+- **No responsive design**
 
 
 ## :wink: Getting Started

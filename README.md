@@ -74,7 +74,7 @@ Silvija: [Github link](https://github.com/SilvijaZ)
 
 ## :warning: License
 
-Distributed under the MIT License.
+Distributed under the ISC License.
 
 ## :link: Others resources
 

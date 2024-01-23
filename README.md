@@ -20,8 +20,7 @@ This project is for educational porpuses only. The main goal of this project is 
 ## :dart: Project Features and Goals
 
 - Github pages
-- Html
-- Css style
+- CSS units: px, %
 - Basic design layout
 - Image with relative paths
 - **No responsive design**

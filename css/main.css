@@ -19,7 +19,7 @@
     div{
         width: 40%;
         /*width: calc(30% - 100px);*/
-        /*padding: 5%;*/
+        padding: 5%;
         /*border: 50px solid violet;*/
         float: left;
         margin-top: 50px;

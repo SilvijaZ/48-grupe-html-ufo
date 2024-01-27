@@ -5,7 +5,7 @@
 <br>
 
 
-![Ufo image](./img/ufo.jpg)
+![Ufo image](./img/page%20design.jpg)
 
 <br>
 
